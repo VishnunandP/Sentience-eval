@@ -32,7 +32,7 @@ We would like to thank the contributors to these datasets and the researchers fo
 
 1. **Clone this Repository**:
     ```bash
-    git clone https://github.com/your-username/Emotion-Driven-Response-System.git
+    git clone https://github.com/VishnunandP/Emotion-Driven-Response-System.git
     ```
 
 2. **Install Dependencies**:

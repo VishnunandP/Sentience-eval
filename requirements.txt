@@ -1,0 +1,12 @@
+gradio==3.12.0
+transformers==4.25.1
+torch==1.13.1
+opencv-python==4.6.0.66
+opencv-python-headless==4.6.0.66
+numpy==1.23.3
+pandas==1.5.3
+scikit-learn==1.1.2
+matplotlib==3.6.2
+Pillow==9.3.0
+tensorflow==2.10.0
+datasets==2.10.0

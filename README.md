@@ -54,6 +54,3 @@ We would like to thank the contributors to these datasets and the researchers fo
 - This project uses the FER-2013 dataset, which was provided by [Kaggle](https://www.kaggle.com/datasets/msambare/fer2013).
 - The Empathetic Dialogues dataset was provided by [Facebook AI](https://huggingface.co/datasets/facebook/empathetic_dialogues).
 
-### **Contact**
-
-For any queries or collaboration, feel free to reach out to [Your Contact Information].

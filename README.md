@@ -1,4 +1,4 @@
-# **Emotion-Driven Response Generation and Sentience Evaluation System**
+# **Emotion-Driven Response Generation**
 
 ## **Overview**
 
